@@ -1,9 +1,9 @@
 ### Hi there 👋 This is Arpita !!
-
 <!--
+
 **ArpitaMaske/ArpitaMaske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on devops project
 - 🌱 I’m currently learning new frameworks related to Java and also exploring github 
