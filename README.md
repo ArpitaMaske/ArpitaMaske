@@ -10,5 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on different projects 
 - 💬 Ask me about coding questions in java , python 
 - 📫 How to reach me: arpitamaske2911@gmail.com
-- ⚡ Fun fact: Exercise lover
+- ⚡ Fun fact: Doremon lover
+
 
