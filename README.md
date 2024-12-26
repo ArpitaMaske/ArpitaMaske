@@ -12,8 +12,8 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: arpitamaske2911@gmail.com
 - ⚡ Fun fact: Doremon lover
 
-Connect with me : 
-Telegram - https://t.me/+lfUxqizyIOJlNmE1
-LeetCode - https://leetcode.com/u/arpitamaske2911/
+🌟 Connect With Me
+📱 Telegram: Join Me Here
+💻 LeetCode: My Profile
 
 
