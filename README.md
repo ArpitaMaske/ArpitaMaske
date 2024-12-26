@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Doremon lover
 
 🌟 Connect With Me
-📱 Telegram: Join Me Here
-💻 LeetCode: My Profile
+- 📱 Telegram: https://t.me/+lfUxqizyIOJlNmE1
+- 💻 LeetCode: https://leetcode.com/u/arpitamaske2911/
 
 
